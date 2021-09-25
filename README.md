@@ -1,1 +1,1 @@
-# Code_States_Project
+프로젝트에 대한 설명이 '섹션2_Proj_DS_HR_이대운(발표).ipynb' 파일에 포함되어 있습니다. 추후 readme.txt에서 확인이 가능하도록 수정할 예정입니다.
